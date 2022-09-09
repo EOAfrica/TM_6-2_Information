@@ -1,7 +1,7 @@
 # Extracting information from satellite remote sensing
 
 ![](./images/EOAFRICA-logo-transparent-bkg.png)
-<img src="./images/EOAFRICA-logo-transparent-bkg.png" width="200" height="200">
+<img src="./images/EOAFRICA-logo-transparent-bkg.png" width="50" height="50">
 
 Part of EOAfrica R&D Facility course material:
 
