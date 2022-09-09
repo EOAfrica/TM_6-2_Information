@@ -1,12 +1,12 @@
 # Extracting information from satellite remote sensing
 
-<img src="./images/EOAFRICA-logo-transparent-bkg.png" width="100" height="100">
+<img src="./images/EOAFRICA-logo-transparent-bkg.png" width="200" height="200">
 
 Part of EOAfrica R&D Facility course material:
 
 * Training Module 6 & Online Course 4: Vegetation and Drought Monitoring from Space
 
-**Authors: dr. Jeroen Degerickx & Christophe Metsu
+**Authors: dr. Jeroen Degerickx & Christophe Metsu**
 
 Organisation: VITO Remote Sensing [(website)](https://remotesensing.vito.be/)
 
